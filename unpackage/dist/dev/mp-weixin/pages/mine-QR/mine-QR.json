@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "二维码",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#3196ff",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

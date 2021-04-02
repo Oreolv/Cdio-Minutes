@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar"
+  }
+}

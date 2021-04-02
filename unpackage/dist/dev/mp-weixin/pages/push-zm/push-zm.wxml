@@ -1,0 +1,1 @@
+<view class="pushoffer"><navbar vue-id="a640b61c-1" title="招募" isPush="{{true}}" bind:__l="__l"></navbar><pushbox vue-id="a640b61c-2" bind:__l="__l"></pushbox></view>

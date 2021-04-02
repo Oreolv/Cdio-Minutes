@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设置",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#3196ff",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

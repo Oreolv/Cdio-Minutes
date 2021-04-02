@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "navbar": "/components/navbar/navbar",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "countlist": "/components/countlist/countlist"
+  }
+}

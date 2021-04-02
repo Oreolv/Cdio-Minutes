@@ -1,0 +1,1 @@
+<view><navbar vue-id="8c23d75c-1" isSearch="{{true}}" normal="{{false}}" bind:__l="__l"></navbar></view>
